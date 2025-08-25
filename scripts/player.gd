@@ -1,6 +1,6 @@
 extends Node2D
 
-const SPEED = 5.0
+@export var SPEED = 5.0
 
 func _ready() -> void:
 	pass # Replace with function body.
